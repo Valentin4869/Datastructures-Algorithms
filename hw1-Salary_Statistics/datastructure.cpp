@@ -1,4 +1,4 @@
-// Definition of Datastructure class, hw3 of TIE-20100/TIE-20106
+// Definition of Datastructure class, hw1 of TIE-20100/TIE-20106
 #include "datastructure.hpp"
 // For debug
 #include <iostream>
